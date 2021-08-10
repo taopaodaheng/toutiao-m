@@ -1,4 +1,3 @@
-/* 加载字体图标 */
 @font-face {
   font-family: "toutiao";
   /* Project id 2735203 */
@@ -73,7 +72,4 @@
 }
 .toutiao-yuedu:before {
   content: "\e615";
-}
-body {
-  background-color: pink;
 }
